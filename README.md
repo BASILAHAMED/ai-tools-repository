@@ -11,7 +11,7 @@ This repository contains comprehensive documentation for 50+ AI tools across 10 
 - 🤖 **AI Assistants & Chat** - ChatGPT, Claude, Gemini, Perplexity, Copilot
 - 💻 **Coding & Development** - GitHub Copilot, Cursor, Windsurf, Tabnine, Replit Agent
 - ✍️ **Writing & Content** - Grammarly, Jasper, Copy.ai, Notion AI, Wordtune
-- 🎨 **Design & Visual** - Canva, Midjourney, DALL-E, Adobe Firefly
+- 🎨 **Design & Visual** - Canva, Midjourney, DALL-E, Adobe Firefly, ClearCrowds
 - 📈 **Analytics & Data** - Tableau AI, Microsoft Copilot Analytics, Vertex AI
 - ⚡ **Productivity** - Microsoft Copilot, Notion AI, Google Workspace AI
 - 🔄 **Automation** - Zapier AI, Make, Notion AI Automation
@@ -59,39 +59,40 @@ Browse the tools by category in the `tools/` directory or check the complete ind
 25. [Midjourney](tools/design/midjourney.md) - Artistic image generation
 26. [DALL-E](tools/design/dall-e.md) - OpenAI's image generator
 27. [Adobe Firefly](tools/design/firefly.md) - Integrated with Creative Cloud
+28. [ClearCrowds](tools/design/clearcrowds.md) - AI photo cleanup and object removal
 
 ### Productivity
-28. [Microsoft Copilot](tools/productivity/copilot.md) - Windows and Office AI
-29. [Notion AI](tools/productivity/notion-ai.md) - Workspace productivity
-30. [Google Workspace AI](tools/productivity/google-workspace.md) - Gmail, Docs, Sheets AI
+29. [Microsoft Copilot](tools/productivity/copilot.md) - Windows and Office AI
+30. [Notion AI](tools/productivity/notion-ai.md) - Workspace productivity
+31. [Google Workspace AI](tools/productivity/google-workspace.md) - Gmail, Docs, Sheets AI
 
 ### Automation
-31. [Zapier AI](tools/automation/zapier.md) - No-code AI workflows
-32. [Make](tools/automation/make.md) - Complex automation scenarios
-33. [Notion AI Automation](tools/automation/notion-automation.md) - Knowledge base automation
+32. [Zapier AI](tools/automation/zapier.md) - No-code AI workflows
+33. [Make](tools/automation/make.md) - Complex automation scenarios
+34. [Notion AI Automation](tools/automation/notion-automation.md) - Knowledge base automation
 
 ### Meeting & Collaboration
-34. [Fathom](tools/meeting/fathom.md) - AI meeting assistant
-35. [Otter.ai](tools/meeting/otter.md) - Meeting transcription and notes
-36. [Fireflies.ai](tools/meeting/fireflies.md) - Meeting intelligence platform
+35. [Fathom](tools/meeting/fathom.md) - AI meeting assistant
+36. [Otter.ai](tools/meeting/otter.md) - Meeting transcription and notes
+37. [Fireflies.ai](tools/meeting/fireflies.md) - Meeting intelligence platform
 
 ### Video & Audio
-37. [Synthesia](tools/video-audio/synthesia.md) - AI video avatars
-38. [Runway](tools/video-audio/runway.md) - Video generation and editing
-39. [Descript](tools/video-audio/descript.md) - Audio/video editing with text
-40. [Murf.ai](tools/video-audio/murf.md) - Voice generation
-41. [Pika Labs](tools/video-audio/pika.md) - Short video creation
-42. [OpenAI Sora](tools/video-audio/sora.md) - Cinema-quality video generation
+38. [Synthesia](tools/video-audio/synthesia.md) - AI video avatars
+39. [Runway](tools/video-audio/runway.md) - Video generation and editing
+40. [Descript](tools/video-audio/descript.md) - Audio/video editing with text
+41. [Murf.ai](tools/video-audio/murf.md) - Voice generation
+42. [Pika Labs](tools/video-audio/pika.md) - Short video creation
+43. [OpenAI Sora](tools/video-audio/sora.md) - Cinema-quality video generation
 
 ### Analytics & Data
-43. [Tableau AI](tools/analytics/tableau.md) - Data exploration and visualization
-44. [Microsoft Copilot Analytics](tools/analytics/copilot-analytics.md) - Excel and Power BI AI
-45. [Google Cloud Vertex AI](tools/analytics/vertex-ai.md) - Enterprise ML platform
+44. [Tableau AI](tools/analytics/tableau.md) - Data exploration and visualization
+45. [Microsoft Copilot Analytics](tools/analytics/copilot-analytics.md) - Excel and Power BI AI
+46. [Google Cloud Vertex AI](tools/analytics/vertex-ai.md) - Enterprise ML platform
 
 ### Customer Support
-46. [Intercom Fin](tools/customer-support/intercom.md) - AI customer support bot
-47. [Zendesk AI](tools/customer-support/zendesk.md) - Intelligent ticket management
-48. [Freshdesk AI](tools/customer-support/freshdesk.md) - Support automation
+47. [Intercom Fin](tools/customer-support/intercom.md) - AI customer support bot
+48. [Zendesk AI](tools/customer-support/zendesk.md) - Intelligent ticket management
+49. [Freshdesk AI](tools/customer-support/freshdesk.md) - Support automation
 
 ## 🔄 Update Schedule
 
