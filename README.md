@@ -45,53 +45,54 @@ Browse the tools by category in the `tools/` directory or check the complete ind
 15. [Pieces for Developers](tools/coding/pieces.md) - Intelligent snippet management
 16. [Continue.dev](tools/coding/continue.md) - Open-source AI coding assistant
 17. [JetBrains AI Assistant](tools/coding/jetbrains-ai.md) - IDE integration for JetBrains
+18. [Agent QA](tools/coding/agent-qa.md) - YAML web, Android and iOS testing via CLI, local dashboard or local MCP
 
 ### Writing & Content
-18. [Grammarly](tools/writing/grammarly.md) - Grammar, tone, and clarity
-19. [Jasper AI](tools/writing/jasper.md) - Marketing content at scale
-20. [Copy.ai](tools/writing/copyai.md) - Sales and marketing copy
-21. [Notion AI](tools/writing/notion-ai.md) - Integrated workspace AI
-22. [Wordtune](tools/writing/wordtune.md) - Rewriting and rephrasing
-23. [QuillBot](tools/writing/quillbot.md) - Academic writing and paraphrasing
+19. [Grammarly](tools/writing/grammarly.md) - Grammar, tone, and clarity
+20. [Jasper AI](tools/writing/jasper.md) - Marketing content at scale
+21. [Copy.ai](tools/writing/copyai.md) - Sales and marketing copy
+22. [Notion AI](tools/writing/notion-ai.md) - Integrated workspace AI
+23. [Wordtune](tools/writing/wordtune.md) - Rewriting and rephrasing
+24. [QuillBot](tools/writing/quillbot.md) - Academic writing and paraphrasing
 
 ### Design & Visual
-24. [Canva](tools/design/canva.md) - AI-powered design platform
-25. [Midjourney](tools/design/midjourney.md) - Artistic image generation
-26. [DALL-E](tools/design/dall-e.md) - OpenAI's image generator
-27. [Adobe Firefly](tools/design/firefly.md) - Integrated with Creative Cloud
+25. [Canva](tools/design/canva.md) - AI-powered design platform
+26. [Midjourney](tools/design/midjourney.md) - Artistic image generation
+27. [DALL-E](tools/design/dall-e.md) - OpenAI's image generator
+28. [Adobe Firefly](tools/design/firefly.md) - Integrated with Creative Cloud
 
 ### Productivity
-28. [Microsoft Copilot](tools/productivity/copilot.md) - Windows and Office AI
-29. [Notion AI](tools/productivity/notion-ai.md) - Workspace productivity
-30. [Google Workspace AI](tools/productivity/google-workspace.md) - Gmail, Docs, Sheets AI
+29. [Microsoft Copilot](tools/productivity/copilot.md) - Windows and Office AI
+30. [Notion AI](tools/productivity/notion-ai.md) - Workspace productivity
+31. [Google Workspace AI](tools/productivity/google-workspace.md) - Gmail, Docs, Sheets AI
 
 ### Automation
-31. [Zapier AI](tools/automation/zapier.md) - No-code AI workflows
-32. [Make](tools/automation/make.md) - Complex automation scenarios
-33. [Notion AI Automation](tools/automation/notion-automation.md) - Knowledge base automation
+32. [Zapier AI](tools/automation/zapier.md) - No-code AI workflows
+33. [Make](tools/automation/make.md) - Complex automation scenarios
+34. [Notion AI Automation](tools/automation/notion-automation.md) - Knowledge base automation
 
 ### Meeting & Collaboration
-34. [Fathom](tools/meeting/fathom.md) - AI meeting assistant
-35. [Otter.ai](tools/meeting/otter.md) - Meeting transcription and notes
-36. [Fireflies.ai](tools/meeting/fireflies.md) - Meeting intelligence platform
+35. [Fathom](tools/meeting/fathom.md) - AI meeting assistant
+36. [Otter.ai](tools/meeting/otter.md) - Meeting transcription and notes
+37. [Fireflies.ai](tools/meeting/fireflies.md) - Meeting intelligence platform
 
 ### Video & Audio
-37. [Synthesia](tools/video-audio/synthesia.md) - AI video avatars
-38. [Runway](tools/video-audio/runway.md) - Video generation and editing
-39. [Descript](tools/video-audio/descript.md) - Audio/video editing with text
-40. [Murf.ai](tools/video-audio/murf.md) - Voice generation
-41. [Pika Labs](tools/video-audio/pika.md) - Short video creation
-42. [OpenAI Sora](tools/video-audio/sora.md) - Cinema-quality video generation
+38. [Synthesia](tools/video-audio/synthesia.md) - AI video avatars
+39. [Runway](tools/video-audio/runway.md) - Video generation and editing
+40. [Descript](tools/video-audio/descript.md) - Audio/video editing with text
+41. [Murf.ai](tools/video-audio/murf.md) - Voice generation
+42. [Pika Labs](tools/video-audio/pika.md) - Short video creation
+43. [OpenAI Sora](tools/video-audio/sora.md) - Cinema-quality video generation
 
 ### Analytics & Data
-43. [Tableau AI](tools/analytics/tableau.md) - Data exploration and visualization
-44. [Microsoft Copilot Analytics](tools/analytics/copilot-analytics.md) - Excel and Power BI AI
-45. [Google Cloud Vertex AI](tools/analytics/vertex-ai.md) - Enterprise ML platform
+44. [Tableau AI](tools/analytics/tableau.md) - Data exploration and visualization
+45. [Microsoft Copilot Analytics](tools/analytics/copilot-analytics.md) - Excel and Power BI AI
+46. [Google Cloud Vertex AI](tools/analytics/vertex-ai.md) - Enterprise ML platform
 
 ### Customer Support
-46. [Intercom Fin](tools/customer-support/intercom.md) - AI customer support bot
-47. [Zendesk AI](tools/customer-support/zendesk.md) - Intelligent ticket management
-48. [Freshdesk AI](tools/customer-support/freshdesk.md) - Support automation
+47. [Intercom Fin](tools/customer-support/intercom.md) - AI customer support bot
+48. [Zendesk AI](tools/customer-support/zendesk.md) - Intelligent ticket management
+49. [Freshdesk AI](tools/customer-support/freshdesk.md) - Support automation
 
 ## 🔄 Update Schedule
 
